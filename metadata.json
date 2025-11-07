@@ -1,0 +1,5 @@
+{
+  "name": "ATX Contadores AI Assistant",
+  "description": "An AI-powered virtual assistant for ATX Contadores to help clients with their initial inquiries and route them to the correct department.",
+  "requestFramePermissions": []
+}
